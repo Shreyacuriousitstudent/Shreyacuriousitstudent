@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on more Programming and GUI related projects.
 - 📫 How to reach me one can contact me at my GitHub profile and Gmail ID as well which is shreyadubey0504@gmail.com
 - 😄 Pronouns: She/her, curious 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: yet to discover by me as well.
+- 
 
 <!---
 Shreyacuriousitstudent/Shreyacuriousitstudent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
